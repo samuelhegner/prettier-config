@@ -1,16 +1,16 @@
 {
     "name": "@samuelhegner/prettier-config",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Prettier Config",
     "main": "index.json",
     "license": "MIT",
     "keywords": [
-      "prettier",
-      "prettier-config"
+        "prettier",
+        "prettier-config"
     ],
     "repository": {
-      "type": "git",
-      "url": "https://github.com/samuelhegner/prettier-config"
+        "type": "git",
+        "url": "https://github.com/samuelhegner/prettier-config"
     },
     "homepage": "https://github.com/samuelhegner/prettier-config"
-  }
+}

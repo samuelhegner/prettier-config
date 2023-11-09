@@ -1,14 +1,22 @@
 {
-    "printWidth": 140,
-    "tabWidth": 4,
-    "useTabs": true,
-    "semi": true,
-    "singleQuote": true,
-    "quoteProps": "consistent",
-    "jsxSingleQuote": true,
-    "trailingComma": "none",
-    "bracketSpacing": true,
-    "bracketSameLine": false,
-    "arrowParens": "always",
-    "singleAttributePerLine": false
+  "printWidth": 140,
+  "tabWidth": 4,
+  "useTabs": true,
+  "semi": true,
+  "singleQuote": true,
+  "quoteProps": "consistent",
+  "jsxSingleQuote": true,
+  "trailingComma": "none",
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "arrowParens": "always",
+  "singleAttributePerLine": false,
+  "overrides": [
+    {
+      "files": "*.yml",
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
 }
